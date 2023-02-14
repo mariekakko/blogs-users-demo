@@ -1,0 +1,14 @@
+com\bandesal\demo\dao\BlogDaoImp.class
+com\bandesal\demo\models\Blogs.class
+com\bandesal\demo\dao\UserDaoImp.class
+com\bandesal\demo\dao\ReaderDaoImp.class
+com\bandesal\demo\DemoApplication.class
+com\bandesal\demo\controllers\ReadersController.class
+com\bandesal\demo\controllers\BlogsController.class
+com\bandesal\demo\utils\SecSecurityConfig.class
+com\bandesal\demo\models\Readers.class
+com\bandesal\demo\dao\BlogDao.class
+com\bandesal\demo\dao\UserDao.class
+com\bandesal\demo\controllers\UsersController.class
+com\bandesal\demo\models\Users.class
+com\bandesal\demo\dao\ReaderDao.class
